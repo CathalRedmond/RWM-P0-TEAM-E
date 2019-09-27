@@ -1,0 +1,16 @@
+{
+    "name": "Scripts",
+    "references": [
+        "XOR21",
+        "RunningTotal",
+        "Modulo3"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
